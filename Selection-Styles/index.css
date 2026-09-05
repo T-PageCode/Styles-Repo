@@ -66,6 +66,14 @@ body{
     background-color: yellow;
     color: black;
 }
+#green-bg-black-text::selection{
+    background-color: green;
+    color: black;
+}
+#cyan-bg-black-text::selection{
+    background-color: cyan;
+    color: black;
+}
 #white-bg-green-text::selection{
     background-color: white;
     color: green;
