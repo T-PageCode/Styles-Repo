@@ -62,3 +62,11 @@ body{
     background-color: white;
     color: white;
 }
+#yellow-bg-black-text::selection{
+    background-color: yellow;
+    color: black;
+}
+#white-bg-green-text::selection{
+    background-color: white;
+    color: green;
+}
