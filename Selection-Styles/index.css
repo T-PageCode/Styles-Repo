@@ -70,3 +70,7 @@ body{
     background-color: white;
     color: green;
 }
+#black-bg-green-text::selection{
+    background-color: black;
+    color: green;
+}
