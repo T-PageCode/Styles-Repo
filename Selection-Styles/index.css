@@ -82,3 +82,7 @@ body{
     background-color: black;
     color: green;
 }
+#black-bg-blue-text::selection{
+    background-color: black;
+    color: blue;
+}
