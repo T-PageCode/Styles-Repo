@@ -86,3 +86,7 @@ body{
     background-color: black;
     color: blue;
 }
+#white-bg-yellow-text::selection{
+    background-color: white;
+    color: yellow;
+}
