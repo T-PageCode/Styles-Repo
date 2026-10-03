@@ -2,7 +2,7 @@ body{
     height: 100%;
     width: 100%;
     user-select: none;
-    padding-top: 200px;
+    padding-top: 120px;
 }
 *{
     font-weight: 200;
@@ -89,4 +89,8 @@ body{
 #white-bg-yellow-text::selection{
     background-color: white;
     color: yellow;
+}
+#white-bg-black-text::selection{
+    background-color: white;
+    color: black;   
 }
